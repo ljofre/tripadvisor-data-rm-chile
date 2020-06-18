@@ -1,0 +1,228 @@
+name;type;rating;lat;lon;commune
+Cerro San Cristóbal;Hill;4.5;-33.43072577;-70.63629062;Recoleta
+Sky Costanera;Building;4.5;-33.41640251;-70.60702322;Providencia
+Cerro Santa Lucía;Hill;4.5;-33.44057;-70.64805;Santiago
+Casa Museo La Chascona;Museum;4.5;-33.4311958;-70.6345385;Providencia
+Barrio Lastarria;Neighborhood;4.5;-33.4388134;-70.6411509;Santiago
+Parque Bicentenario;Park;4.5;-33.39917042;-70.60107428;Vitacura
+Parque Araucano;Park;4.5;-33.40529437;-70.57752863;Las Condes
+Teleférico Santiago;Cable car;4.5;-33.41548464;-70.61724646;Providencia
+Museo Chileno de Arte Precolombino;Museum;4.5;-33.43866039;-70.65244624;Santiago
+Museo de la Memoria y los Derechos Humanos;Museum;4.5;-33.44037921;-70.67984854;Santiago
+Catedral Metropolitana;Church;4.5;-33.43852;-70.65123;Santiago
+Parque Arauco;Park;4.5;-33.40198478;-70.58031542;Las Condes
+La Moneda;Building;4.5;-33.44417438;-70.67008771;Santiago
+Barrio Italia;Neighborhood;4.5;-33.44432193;-70.62568705;Providencia
+Parque Metropolitano de Santiago - Parquemet;Park;4.5;-33.43072577;-70.63629062;Recoleta
+Parque Quinta Normal;Park;4.5;-33.44013361;-70.67998567;Santiago
+Plaza de Armas;Square;4;-33.43852;-70.65123;Santiago
+Museo Nacional de Historia Natural;Museum;4.5;-33.44013361;-70.67998567;Santiago
+Santuario de la Inmaculada Concepcion;Church;4.5;-33.42363;-70.63402;Recoleta
+Isidora Goyenechea;Neighborhood;4.5;-33.4142897;-70.59854978;Las Condes
+Museo Violeta Parra;Museum;4.5;-33.4387759;-70.63484117;Santiago
+La Vega Central;Market;4;-33.4282101;-70.64836336;Recoleta
+Museo Histórico Nacional;Museum;4;-33.43726469;-70.65062338;Santiago
+Teatro Municipal de Santiago;Theater;4.5;-33.44061574;-70.64796407;Santiago
+Zoológico Nacional de Chile;Zoo;4;-33.43089906;-70.63615541;Providencia
+Cerro Manquehue;Hill;4.5;-33.38835427;-70.57510085;Vitacura
+Cementerio General;Cemetery;4.5;-33.43229818;-70.65163412;Santiago
+Museo Nacional de Bellas Artes;Museum;4;-33.43605932;-70.64336092;Santiago
+Parque O'Higgins;Park;4;-33.46059102;-70.65638464;Santiago
+Plaza Ñuñoa;Square;4.5;-33.45429553;-70.593669;Ñuñoa
+Biblioteca Nacional;Library;4.5;-33.44264948;-70.64576872;Santiago
+Plaza de la Aviación;Square;4;-33.43120269;-70.6084286;Providencia
+Iglesia de La Merced;Church;4.5;-33.43809915;-70.64695548;Santiago
+Teatro Municipal de Las Condes;Theater;4.5;-33.41658491;-70.5957053;Las Condes
+Plaza de La Constitución;Square;4;-33.442173;-70.6533705;Santiago
+Paseo Ahumada;Neighborhood;4;-33.4691;-70.64197;Santiago
+Museo Postal;Museum;4;-33.43852;-70.65123;Santiago
+Jardin Japones;Garden;4;-33.41764;-70.61428;Providencia
+Museos Ralli;Museum;4.5;-33.39709058;-70.59183663;Vitacura
+Museo Ferroviario de Santiago;Museum;4;-33.44394;-70.68418;Santiago
+Mercado Tirso de Molina;Market;4;-33.43337893;-70.64513919;Recoleta
+Centro Artesanal Santa Lucia;Market;4;-33.44344002;-70.64317;Santiago
+Museo Palacio Cousiño;Museum;4.5;-33.45192319;-70.65713959;Santiago
+Museo de Artes Visuales;Museum;4;-33.43769811;-70.64097444;Santiago
+Londres 38;Museum;4;-33.44431807;-70.64818161;Santiago
+Parque de Los Reyes;Park;4;-33.42785377;-70.67321056;Santiago
+Barrio Concha y Toro;Neighborhood;4;-33.44550449;-70.67054926;Santiago
+Casa Colorada;Museum;4;-33.43841201;-70.64947641;Santiago
+Museo Historico y Militar de Chile;Museum;4.5;-33.45635887;-70.65646381;Santiago
+Iglesia San Vicente de Ferrer de Los Domínicos;Church;4;-33.40948;-70.56951;Las Condes
+Museo de la Moda;Museum;4;-33.39819261;-70.5861886;Vitacura
+Mercado Drugstore;Market;4;-33.42253028;-70.61108521;Providencia
+Paseo Bulnes;Neighborhood;4;-33.44680998;-70.66430007;Santiago
+Biblioteca de Santiago;Library;4.5;-33.44435753;-70.67949766;Santiago
+Barrio Brasil;Neighborhood;4;-33.44003;-70.66488;Santiago
+Corporación Cultural de las Condes;Market;4.5;-33.40762011;-70.56206687;Las Condes
+Portal Fernández Concha;Building;4;-33.43852;-70.65123;Santiago
+Selva Viva;Zoo;4;-33.40339;-70.57818;Las Condes
+Puente Pío Nono;Neighborhood;3.5;-33.4326;-70.6332;Providencia
+Parque Bustamante;Park;4;-33.44467;-70.62953;Providencia
+Museo de Ciencia y Tecnología;Museum;3.5;-33.44394;-70.68418;Santiago
+Plaza Baquedano (Plaza Italia);Square;4;-33.43701;-70.63439;Providencia
+Teatro Nescafé de las Artes;Theater;4;-33.42859598;-70.62055437;Providencia
+Nuestra Senora de la Divina Providencia;Church;4;-33.42737306;-70.6166751;Providencia
+Anfiteatro Pablo Neruda;Theater;4.5;-33.42363;-70.63402;Recoleta
+Museo Interactivo Audiovisual;Museum;4.5;-33.41435995;-70.59519803;Las Condes
+Plaza Brasil;Square;4;-33.43565269;-70.66487061;Santiago
+Palacio Fallabella;Building;4.5;-33.43198313;-70.60937112;Providencia
+Iglesia de la Vera Cruz;Church;4;-33.43959992;-70.64123034;Santiago
+Museo de la Solidaridad Salvador Allende;Museum;4;-33.45412143;-70.66719174;Santiago
+Galeria Zona Franca;Gallery;3.5;-33.42129792;-70.60897647;Providencia
+Caupolicán;Theater;4;-33.45604379;-70.6497039;Santiago
+Teatro Pata de Cabra;Theater;5;-33.43024676;-70.63940712;Recoleta
+Cervecería Spoh;Brewery;5;-33.46534445;-70.65177801;Santiago
+Mercado Mastica;Market;4;-33.39917042;-70.60107428;Vitacura
+Templo Maternidad de María;Church;4.5;-33.41651574;-70.62371131;Providencia
+Monasterio Benedictino de Las Condes;Church;5;-33.38592342;-70.51692788;Las Condes
+Alejandro Pacareu Galeria de Arte El Bosque;Gallery;5;-33.41553629;-70.60110084;Las Condes
+Iglesia San Francisco de Borja;Church;4;-33.43935152;-70.63753502;Santiago
+Museo Arqueológico de Santiago;Museum;4;-33.43769811;-70.64097444;Santiago
+Teatro Oriente;Theater;4;-33.42449419;-70.61208905;Providencia
+Iglesia San Ignacio de Loyola;Church;4.5;-33.44706331;-70.65685562;Santiago
+Centro de las Artes 660;Theater;4.5;-33.40398594;-70.57337441;Las Condes
+Urbn Stgo;Museum;4.5;-33.43674129;-70.64539803;Santiago
+Iglesia de Los Santos Angeles Custodios;Church;4;-33.4358612;-70.63015411;Providencia
+Plaza Libertad de Prensa;Square;5;-33.44575951;-70.66575117;Santiago
+Iglesia Santa Ana;Church;4;-33.43805674;-70.65843097;Santiago
+Pergola de las Flores Santa Maria;Market;4;-33.43153198;-70.65159357;Recoleta
+Iglesia y Convento de La Recoleta Franciscana;Church;4;-33.43155182;-70.63286497;Providencia
+Iglesia La Inmaculada Concepción;Church;4;-33.40208514;-70.59412942;Vitacura
+Monumento Al General San Martín y a Los Ejércitos de la Independencia;Monument;4;-33.44281857;-70.64651725;Santiago
+Museo del Presidente Pinochet;Museum;3.5;-33.40006248;-70.59385095;Vitacura
+Calle Dieciocho;Neighborhood;3.5;-33.45115732;-70.6573344;Santiago
+Iglesia de las Agustinas;Church;4;-33.4421213;-70.65200177;Santiago
+San Ginés Teatro;Theater;4;-33.43263044;-70.63347896;Providencia
+Persa Victor Manuel;Gallery;5;-33.47395964;-70.64058527;Santiago
+Teatro Mori Bellavista;Theater;4.5;-33.43235447;-70.63484256;Providencia
+Iglesia Padres Capuchinos - San Antonio de Padua;Church;4.5;-33.43920149;-70.66960296;Santiago
+Parque de la Chilenidad;Park;4;-33.41632424;-70.60912908;Providencia
+Intendencia de Santiago;Building;4;-33.44222276;-70.65330017;Santiago
+Plaza Camilo Mori;Square;4.5;-33.4329691;-70.63474714;Providencia
+Parque Almagro;Park;3.5;-33.45479;-70.65382;Santiago
+Casa de lo Matta;Museum;4.5;-33.38806094;-70.54428843;Vitacura
+Iglesia de la Gratitud Nacional;Church;4;-33.4480011;-70.66894193;Santiago
+Barrio Franklin Huemul;Neighborhood;4;-33.47528459;-70.64183778;Santiago
+Plaza de Armas de La Pintana;Square;4;-33.44380137;-70.64589221;Santiago
+Iglesia Nuestra Sra. del Carmen;Church;3.5;-33.43092402;-70.62325978;Providencia
+Parroquía San Ramón;Church;3.5;-33.42087333;-70.60559805;Providencia
+Iglesia de Santa Filomena;Church;4.5;-33.42871;-70.64471;Recoleta
+Museo Historico Carabineros de Chile;Museum;4.5;-33.442002;-70.6127715;Providencia
+Parque Juan Pablo II;Park;5;-33.4001248;-70.56938484;Las Condes
+Iglesia de San Lazaro;Church;4.5;-33.451938;-70.6604985;Santiago
+Galeria de Arte Patricia Ready;Gallery;4.5;-33.39674275;-70.59820429;Vitacura
+Teatro Universidad Católica;Theater;4;-33.45488888;-70.59413284;Ñuñoa
+Teatro Cariola;Theater;3;-33.44824925;-70.65087042;Santiago
+Anticuarios Galeria Los Pajaros;Gallery;5;-33.4203283;-70.60728226;Providencia
+Parroquia Sagrado Corazón de Jesús;Church;4;-33.45023625;-70.6770985;Santiago
+Parroquia Nuestra Señora de Andacollo;Church;4;-33.43210041;-70.66979277;Santiago
+Estadio Victor Jara;Stadium;3;-33.45054179;-70.67491266;Santiago
+Museo la Merced;Museum;4;-33.43874684;-70.64685623;Santiago
+Plaza de Bolsillo;Square;3.5;-33.44253825;-70.65326627;Santiago
+Parroquia Nuestra Señora de las Mercedes Los Castaños;Church;4;-33.3861404;-70.56275883;Vitacura
+Firemen Building;Building;4;-33.43852;-70.65123;Santiago
+Plop Galería;Gallery;4.5;-33.43739166;-70.6423924;Santiago
+Teatro Mori Sala Vitacura;Theater;4;-33.39917042;-70.60107428;Vitacura
+Catedral Castrense de Chile;Church;3.5;-33.42087333;-70.60559805;Providencia
+Mezquita As-Salam;Church;3.5;-33.45059542;-70.59836243;Ñuñoa
+Teatro Del CEAC UChile;Theater;4;-33.43724947;-70.63475758;Providencia
+Plaza Gabriela Mistral;Square;4;-33.42363;-70.63402;Recoleta
+Basilica de Nuestra Senora del Perpetuo Socorro;Church;4;-33.45875316;-70.67542042;Santiago
+Plaza de Bolsillo Padre Mariano;Square;5;-33.42549863;-70.61662178;Providencia
+Teatro Del Puente;Theater;4.5;-33.43516;-70.64092;Santiago
+Coliseo;Theater;2.5;-33.44631472;-70.65384025;Santiago
+La Dominical;Market;4.5;-33.41923886;-70.60799319;Providencia
+Galeria Santiago Centro;Gallery;4;-33.44680998;-70.66430007;Santiago
+Teatro Coca Cola City;Theater;4.5;-33.4331103;-70.63393637;Providencia
+Iglesia Católica Apostólica Ortodoxa de la Santísima Virgen María;Church;4;-33.42432783;-70.61207792;Providencia
+Teatro ICTUS;Theater;4.5;-33.43739166;-70.6423924;Santiago
+Teatro de la Aurora;Theater;4.5;-33.44503943;-70.62550199;Providencia
+Teatro Carrera;Theater;3.5;-33.44680998;-70.66430007;Santiago
+Plaza Loreto Cousino;Square;4;-33.41401;-70.59216;Las Condes
+Museo de Arte Popular Americano;Museum;4;-33.399;-70.65747;Recoleta
+Capilla de Las Animas;Church;4;-33.4348349;-70.65585677;Santiago
+Iglesia Ortodoxa Rusa de la Santísima Trinidad y la Stma Virgen de Kazán;Church;4;-33.45142553;-70.59601513;Ñuñoa
+Portal Bulnes;Building;4.5;-33.43852;-70.65123;Santiago
+Museo Taller;Museum;5;-33.44727335;-70.64374391;Santiago
+Cementerio Católico de Santiago;Cemetery;3.5;-33.41157409;-70.63073336;Recoleta
+Monasterio Agustinas de la Limpia Concepción;Church;4.5;-33.44637007;-70.63244949;Providencia
+Teatro Nacional Chileno;Theater;5;-33.44408231;-70.65296761;Santiago
+Estadio Municipal de las Condes;Stadium;4;-33.41134962;-70.53577984;Las Condes
+Museo Nacional Benjamín Vicuña Mackenna;Museum;4;-33.44130098;-70.63393266;Providencia
+Santiago Comunity Church;Church;4;-33.42090538;-70.6036007;Providencia
+Cerro Navidad;Hill;4;-33.41505077;-70.58771404;Las Condes
+Vicaría para la Familia;Church;4.5;-33.43743155;-70.65238168;Santiago
+CloseUp Chile;Gallery;5;-33.43746509;-70.64211389;Santiago
+Fuente de los Niños;Square;3.5;-33.44044157;-70.64706445;Santiago
+Sala de Arte Las Condes;Gallery;4.5;-33.418188;-70.60141575;Providencia
+Catedral San Jorge;Church;4;-33.43006337;-70.64403529;Recoleta
+Iglesia de Dios Misiones Mundiales;Church;3;-33.41479682;-70.5349845;Las Condes
+CentroParque centro de eventos;Park;3.5;-33.40529437;-70.57752863;Las Condes
+Casa Museo Eduardo Frei Montalva;Museum;4;-33.44376912;-70.62262487;Providencia
+Teatro Novedades;Theater;4;-33.44244873;-70.67220731;Santiago
+Alianza Cristiana y Misionera;Church;3.5;-33.43902984;-70.63207272;Providencia
+Parroquía Santo Toribio De Mogrovejo;Church;4.5;-33.41367824;-70.56947808;Las Condes
+Parque Mapuhue;Park;5;-33.46188196;-70.67519842;Santiago
+Jardin Botanico Chagual;Garden;4;-33.38904405;-70.59858196;Vitacura
+Iglesia Nueva Apostólica;Church;3.5;-33.44573998;-70.63421336;Santiago
+Museo Historico Dominico;Museum;4;-33.42481198;-70.64557054;Recoleta
+Plaza Bogotá;Square;4;-33.46687919;-70.63434844;Santiago
+Iglesia Nuestra Señora de la Victoria;Church;4;-33.4348265;-70.63658201;Recoleta
+Sinagoga Maguen David;Church;3.5;-33.42920583;-70.6069789;Providencia
+Iglesia de San Lorenzo;Church;3;-33.45201814;-70.66055192;Santiago
+Iglesia Cristiana Viña las Condes;Church;4;-33.41587734;-70.56914761;Las Condes
+Teatro Duoc UC;Theater;5;-33.43162097;-70.62891865;Providencia
+Galería Jorge Carroza;Gallery;5;-33.40164785;-70.59814959;Vitacura
+Cerveza Artesanal Leyenda;Brewery;4;-33.46149004;-70.6279673;Ñuñoa
+Iglesia Adventista del Séptimo Día;Church;4;-33.41053165;-70.57318908;Las Condes
+Biblioteca Patrimonial Recoleta Dominica;Library;4.5;-33.42481198;-70.64557054;Recoleta
+El Pilucho;Monument;4.5;-33.46148966;-70.61612868;Ñuñoa
+Parroquia la Anunciación;Church;3.5;-33.43906896;-70.60639928;Providencia
+Iglesia Luterana el Redentor;Church;3.5;-33.42350502;-70.60618819;Providencia
+Plaza Ramon Cruz;Square;5;-33.45434366;-70.57943234;Ñuñoa
+Puente Los Carros;Neighborhood;2.5;-33.43431382;-70.64438333;Santiago
+Iglesia Evangélica Bautista Argomedo;Church;3.5;-33.4496202;-70.63529478;Santiago
+Iglesia Esclavas del Sagrado Corazón de Jesús;Church;4.5;-33.42683338;-70.62221051;Providencia
+Templo de la Preciosa Sangre;Church;5;-33.44017037;-70.66711515;Santiago
+Sede Nacional Colegio de Arquitectos de Chile;Building;4;-33.4375952;-70.63691824;Santiago
+Artium Galería de Arte ;Gallery;5;-33.40068682;-70.59916602;Vitacura
+Iglesia Adventista Fe y Esperanza;Church;4;-33.44148366;-70.66871346;Santiago
+Mustafa Kemal Atatürk Square;Square;3;-33.40967541;-70.57025724;Las Condes
+Artespacio Galería de Arte;Gallery;4;-33.40136288;-70.5965471;Vitacura
+Museo de la Guerra del Pacifico;Museum;5;-33.44474385;-70.66304432;Santiago
+Iglesia Presbiteriana Santísima Trinidad;Church;4;-33.43564168;-70.64651521;Santiago
+Monumento al Presidente Salvador Allende;Monument;3;-33.43843759;-70.6538988;Santiago
+Iglesia Bíblica Bautista Las Condes;Church;3;-33.41778158;-70.55082426;Las Condes
+Galeria Kunst;Gallery;3.5;-33.43419438;-70.63040096;Providencia
+Estadio Municipal Patricia;Stadium;3;-33.42054288;-70.53378304;Las Condes
+Parroquia Nuestra Señora de las Nieves;Church;3.5;-33.42456837;-70.54600241;Las Condes
+Museo Arte de Luz;Museum;4;-33.43808864;-70.64558605;Santiago
+Casa De La Memoria Jose Domingo Cañas;Museum;4.5;-33.45593841;-70.61722167;Ñuñoa
+Iglesia Nueva Providencia;Church;4;-33.44490749;-70.62681135;Providencia
+Corazón Inmaculado y Doloroso De María;Church;4;-33.41057731;-70.54700245;Las Condes
+Iglesia San Juan Apostol;Church;4;-33.39125234;-70.58130818;Vitacura
+Victoria Galería de Arte;Gallery;4;-33.40932123;-70.56721441;Las Condes
+Lastarria 90 Producciones Teatro;Theater;4;-33.43977563;-70.64122542;Santiago
+Teatrocinema;Theater;4;-33.43272342;-70.63712655;Recoleta
+Iglesia Biblica Las Condes;Church;3;-33.415649;-70.58369074;Las Condes
+Museo del Sonido;Museum;4;-33.42912205;-70.67686117;Santiago
+Ekklesia Iglesia Cristiana;Church;2.5;-33.44216669;-70.59957221;Providencia
+Iglesia San Franzisco de Sales;Church;4.5;-33.38382065;-70.59222807;Vitacura
+Primera Iglesia de Cristo;Church;3;-33.42359595;-70.5938236;Las Condes
+Estatua al General Manuel Bulnes;Monument;3;-33.44408231;-70.65296761;Santiago
+Teatro de la Palabra;Theater;4;-33.43126042;-70.63303249;Providencia
+Parroquia Nuestra Señora de Los Angeles;Church;3;-33.41657;-70.59553;Las Condes
+Iglesia Adventista Del Séptimo Día;Church;3;-33.41558512;-70.58371285;Las Condes
+Mundo Sur Galería de Arte;Gallery;4;-33.40122282;-70.59706935;Vitacura
+Teatro Facetas;Theater;4;-33.44904975;-70.63164042;Providencia
+Galería Barros;Gallery;4;-33.39655906;-70.59756042;Vitacura
+Galeria Arte Tierra;Gallery;4.5;-33.45194122;-70.61023837;Ñuñoa
+Galeria Formato;Gallery;4;-33.44572056;-70.62523004;Providencia
+Isabel Aninat Galería de Arte;Gallery;4;-33.39678419;-70.59829669;Vitacura
+Nueva Tierra Iglesia Apostólica;Church;3;-33.45002928;-70.66475478;Santiago
+Plaza Brasilia;Square;4;-33.39295647;-70.5597974;Vitacura
+Estadio Municipal de Leonel Sanchez;Stadium;3;-33.39955951;-70.64280511;Recoleta
+La Sala Galería de Arte;Gallery;4;-33.40129882;-70.5967856;Vitacura
+Ladrón de Bicicletas Teatro;Theater;4;-33.4331103;-70.63393637;Providencia
+La Memoria Teatro;Theater;4;-33.43162097;-70.62891865;Providencia
